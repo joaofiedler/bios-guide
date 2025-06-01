@@ -143,7 +143,7 @@ Secure Boot: Disabled
 ### 📈 Benchmarking Tools
 - **Input Lag**: RTSS Frame Time Analysis
 - **Memory**: AIDA64 Memory Benchmark  
-- **CPU**: Cinebench R23
+- **CPU**: OCCT, Linkpack
 - **Gaming**: 3DMark Time Spy
 
 ### Warning Signs
