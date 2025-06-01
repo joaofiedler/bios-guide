@@ -18,7 +18,6 @@
 - [⚠️ Important Notes](#-important-notes)
 - [📞 Support](#-support)
 - [📚 Additional Resources](#-additional-resources)
-- [🤝 Contributing](#-contributing)
 ---
 
 ## 🎯 What This Does
