@@ -65,7 +65,7 @@ Enhanced SpeedStep: Disabled
 
 # Performance ON  
 Intel Turbo Boost: Enabled
-Hyper-Threading: Disabled (eSports) / Enabled (AAA games)
+Hyper-Threading: Disabled (only if you have more than 6 cores)
 ```
 
 **For 14th gen specifically:**
@@ -108,7 +108,7 @@ Hardware P-States: Disabled
 
 ### PCIe & Connectivity
 ```yaml
-Above 4G Decoding: Enabled
+Above 4G Decoding: Enabled (test off tho)
 Resizable BAR: Enabled  
 PCIe Link State Power Management: Disabled
 ASPM Support: Disabled
@@ -116,7 +116,7 @@ ASPM Support: Disabled
 
 ### USB Optimization
 ```yaml
-Legacy USB Support: Disabled
+Legacy USB Support: Disabled (will make ur mouse un-usable when installing a new windows through windows (windows media creation tool)
 XHCI Hand-off: Enabled
 USB Transfer Timeout: 1 sec
 Unused USB ports: Disabled
@@ -128,7 +128,7 @@ Internal Graphics: Disabled
 Onboard Audio: Disabled (use USB/external DAC)
 WiFi: Disabled (ethernet only)
 Virtualization: Disabled
-Secure Boot: Disabled
+Secure Boot: Disabled (needed for fortnite competitive and w11)
 ```
 
 ---
