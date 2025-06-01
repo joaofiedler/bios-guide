@@ -164,7 +164,7 @@ Secure Boot: Disabled (needed for fortnite competitive and w11)
 
 ## 📞 Support
 
-- **Discord:** @pingofv
+- **Discord:** @pingofv | https://discord.gg/jkkQR6tu37
 
 ---
 
