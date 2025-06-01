@@ -9,8 +9,6 @@
 
 **Extreme BIOS tweaks for minimum input lag in competitive gaming**
 
-[📖 Documentation](#documentation) • [⚙️ Quick Setup](#quick-setup) • [🛠️ Advanced Tweaks](#advanced-tweaks) • [⚠️ Warnings](#warnings)
-
 </div>
 
 ---
