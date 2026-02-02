@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Hardware](https://img.shields.io/badge/Hardware-Z690_UD-blue?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Hardware-Z790_UD-blue?style=for-the-badge)
 ![CPU](https://img.shields.io/badge/CPU-i9_14900KF-red?style=for-the-badge)
-![GPU](https://img.shields.io/badge/GPU-RTX_3070_Ti-green?style=for-the-badge)
+![GPU](https://img.shields.io/badge/GPU-RTX_5060_Ti-green?style=for-the-badge)
 ![RAM](https://img.shields.io/badge/RAM-32GB_B--die-orange?style=for-the-badge)
 
 **High school hardware enthusiast here. I went deep into BIOS tweaking for at least 3 years chasing better performance.**
@@ -181,3 +181,4 @@ Secure Boot: Disabled (needed for fortnite competitive and w11)
 **Made by me for the hardware enthusiast community**
 
 </div>
+
